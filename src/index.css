@@ -1,0 +1,9 @@
+.category-heading {
+  text-align: center;
+  margin-block: 10px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
